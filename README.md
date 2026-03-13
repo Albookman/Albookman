@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Alvaro (Albookman)
 
-<!--
-**Albookman/Albookman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📚 Entrepreneur for 30 years, running a **bookstore and stationery business**.  
+- 🎓 Background in **Engineering**.  
+- 💻 Currently learning **Python** and exploring programming as a new path.  
+- 🌱 Curious about **AI, web development, and data analysis**.  
+- 🚀 Looking for new opportunities to combine my business experience with technology.
 
-Here are some ideas to get you started:
+## Skills
+- Business Management & Customer Service  
+- Sales & Marketing  
+- Team Leadership  
+- Problem Solving  
+- Engineering Background  
+- Python (Beginner)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Programming & Software Development  
+- Artificial Intelligence & Machine Learning  
+- Web Development  
+- Data Analysis  
+- Entrepreneurship & Innovation  
+- Books & Education  
+- Continuous Learning  
+
+## Connect with Me
+- GitHub: [github.com/Albookman](https://github.com/Albookman)
